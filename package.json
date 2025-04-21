@@ -2,7 +2,7 @@
   "name": "react-vite-01",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
+  "type": "module", 
   "scripts": {
     "start:dev": "vite",
     "build": "tsc -b && vite build",
